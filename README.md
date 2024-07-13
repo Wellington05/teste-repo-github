@@ -4,3 +4,5 @@
  aprendizado de GIT & GIT HUB</p>
 
  <span>Eu sou um programador FullStack</span>
+
+<small>Eu tenho 22 anos</small>
